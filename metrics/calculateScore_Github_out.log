@@ -1,0 +1,40 @@
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github.cpp:41:9: warning: function 'BowlingGame' exceeds recommended size/complexity thresholds [readability-function-size]
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github.cpp:41:9: note: 2 lines including whitespace and comments (threshold 0)
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github.cpp:41:9: note: 1 statements (threshold 0)
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github.cpp:41:72: note: nesting level 1 starts here (threshold 0)
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github.cpp:45:14: warning: function 'roll' exceeds recommended size/complexity thresholds [readability-function-size]
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github.cpp:45:14: note: 2 lines including whitespace and comments (threshold 0)
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github.cpp:45:14: note: 1 statements (threshold 0)
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github.cpp:45:14: note: 1 parameters (threshold 0)
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github.cpp:45:29: note: nesting level 1 starts here (threshold 0)
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github.cpp:48:13: warning: function 'score' has cognitive complexity of 5 (threshold 0) [readability-function-cognitive-complexity]
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github.cpp:48:13: warning: function 'score' exceeds recommended size/complexity thresholds [readability-function-size]
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github.cpp:48:13: note: 16 lines including whitespace and comments (threshold 0)
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github.cpp:48:13: note: 17 statements (threshold 0)
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github.cpp:48:13: note: 3 branches (threshold 0)
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github.cpp:48:21: note: nesting level 1 starts here (threshold 0)
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github.cpp:65:14: warning: function 'isStrike' exceeds recommended size/complexity thresholds [readability-function-size]
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github.cpp:65:14: note: 2 lines including whitespace and comments (threshold 0)
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github.cpp:65:14: note: 1 statements (threshold 0)
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github.cpp:65:14: note: 1 parameters (threshold 0)
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github.cpp:65:39: note: nesting level 1 starts here (threshold 0)
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github.cpp:68:13: warning: function 'sumOfBallsInFrame' exceeds recommended size/complexity thresholds [readability-function-size]
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github.cpp:68:13: note: 2 lines including whitespace and comments (threshold 0)
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github.cpp:68:13: note: 1 statements (threshold 0)
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github.cpp:68:13: note: 1 parameters (threshold 0)
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github.cpp:68:47: note: nesting level 1 starts here (threshold 0)
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github.cpp:71:13: warning: function 'spareBonus' exceeds recommended size/complexity thresholds [readability-function-size]
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github.cpp:71:13: note: 2 lines including whitespace and comments (threshold 0)
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github.cpp:71:13: note: 1 statements (threshold 0)
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github.cpp:71:13: note: 1 parameters (threshold 0)
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github.cpp:71:40: note: nesting level 1 starts here (threshold 0)
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github.cpp:74:13: warning: function 'strikeBonus' exceeds recommended size/complexity thresholds [readability-function-size]
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github.cpp:74:13: note: 2 lines including whitespace and comments (threshold 0)
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github.cpp:74:13: note: 1 statements (threshold 0)
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github.cpp:74:13: note: 1 parameters (threshold 0)
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github.cpp:74:41: note: nesting level 1 starts here (threshold 0)
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github.cpp:77:14: warning: function 'isSpare' exceeds recommended size/complexity thresholds [readability-function-size]
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github.cpp:77:14: note: 2 lines including whitespace and comments (threshold 0)
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github.cpp:77:14: note: 1 statements (threshold 0)
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github.cpp:77:14: note: 1 parameters (threshold 0)
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github.cpp:77:38: note: nesting level 1 starts here (threshold 0)

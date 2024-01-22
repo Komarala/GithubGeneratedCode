@@ -1,0 +1,4 @@
+/home/ubuntu/ai_coding/GithubCopilot_Code/build/CMakeFiles/main.dir
+/home/ubuntu/ai_coding/GithubCopilot_Code/build/CMakeFiles/test.dir
+/home/ubuntu/ai_coding/GithubCopilot_Code/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/ai_coding/GithubCopilot_Code/build/CMakeFiles/rebuild_cache.dir

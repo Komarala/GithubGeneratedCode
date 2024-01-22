@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/runTests.dir/calculateScore_Github_test.cpp.o CMakeFiles/runTests.dir/GithubBowling.cpp.o -o runTests  /usr/lib/x86_64-linux-gnu/libgtest.a -lpthread 

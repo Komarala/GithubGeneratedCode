@@ -1,0 +1,104 @@
+desc: (none)
+cmd: ./build/main
+time_unit: i
+#-----------
+snapshot=0
+#-----------
+time=0
+mem_heap_B=0
+mem_heap_extra_B=0
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=1
+#-----------
+time=2287210
+mem_heap_B=72704
+mem_heap_extra_B=8
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=2
+#-----------
+time=2395375
+mem_heap_B=72728
+mem_heap_extra_B=24
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=3
+#-----------
+time=2395703
+mem_heap_B=72812
+mem_heap_extra_B=44
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=4
+#-----------
+time=2399871
+mem_heap_B=73836
+mem_heap_extra_B=52
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=5
+#-----------
+time=2415673
+mem_heap_B=74860
+mem_heap_extra_B=60
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=6
+#-----------
+time=2512666
+mem_heap_B=74860
+mem_heap_extra_B=60
+mem_stacks_B=0
+heap_tree=peak
+n3: 74860 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n1: 72704 0x4906939: ??? (in /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.30)
+  n1: 72704 0x400647D: call_init.part.0 (dl-init.c:70)
+   n1: 72704 0x4006567: call_init (dl-init.c:33)
+    n1: 72704 0x4006567: _dl_init (dl-init.c:117)
+     n0: 72704 0x40202C9: ??? (in /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2)
+ n1: 2048 0x4B26BA3: _IO_file_doallocate (filedoalloc.c:101)
+  n2: 2048 0x4B35CDF: _IO_doallocbuf (genops.c:347)
+   n1: 1024 0x4B34CDB: _IO_file_underflow@@GLIBC_2.2.5 (fileops.c:485)
+    n1: 1024 0x4B35D95: _IO_default_uflow (genops.c:362)
+     n1: 1024 0x496E8C0: __gnu_cxx::stdio_sync_filebuf<char, std::char_traits<char> >::underflow() (in /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.30)
+      n1: 1024 0x49247E9: std::basic_istream<char, std::char_traits<char> >& std::getline<char, std::char_traits<char>, std::allocator<char> >(std::basic_istream<char, std::char_traits<char> >&, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >&, char) (in /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.30)
+       n0: 1024 0x1098E9: main (in /home/ubuntu/ai_coding/GithubCopilot_Code/build/main)
+   n1: 1024 0x4B34F5F: _IO_file_overflow@@GLIBC_2.2.5 (fileops.c:744)
+    n1: 1024 0x4B336D4: _IO_new_file_xsputn (fileops.c:1243)
+     n1: 1024 0x4B336D4: _IO_file_xsputn@@GLIBC_2.2.5 (fileops.c:1196)
+      n1: 1024 0x4B27FD6: fwrite (iofwrite.c:39)
+       n1: 1024 0x4998B64: std::basic_ostream<char, std::char_traits<char> >& std::__ostream_insert<char, std::char_traits<char> >(std::basic_ostream<char, std::char_traits<char> >&, char const*, long) (in /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.30)
+        n1: 1024 0x4998EBA: std::basic_ostream<char, std::char_traits<char> >& std::operator<< <std::char_traits<char> >(std::basic_ostream<char, std::char_traits<char> >&, char const*) (in /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.30)
+         n0: 1024 0x109472: main (in /home/ubuntu/ai_coding/GithubCopilot_Code/build/main)
+ n0: 108 in 2 places, all below massif's threshold (1.00%)
+#-----------
+snapshot=7
+#-----------
+time=2512666
+mem_heap_B=2156
+mem_heap_extra_B=52
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=8
+#-----------
+time=2513610
+mem_heap_B=1132
+mem_heap_extra_B=44
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=9
+#-----------
+time=2513644
+mem_heap_B=108
+mem_heap_extra_B=36
+mem_stacks_B=0
+heap_tree=empty

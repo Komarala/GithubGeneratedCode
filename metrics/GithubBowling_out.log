@@ -1,0 +1,6 @@
+/home/ubuntu/ai_coding/GithubCopilot_Code/GithubBowling.cpp:30:5: warning: function 'main' has cognitive complexity of 47 (threshold 0) [readability-function-cognitive-complexity]
+/home/ubuntu/ai_coding/GithubCopilot_Code/GithubBowling.cpp:30:5: warning: function 'main' exceeds recommended size/complexity thresholds [readability-function-size]
+/home/ubuntu/ai_coding/GithubCopilot_Code/GithubBowling.cpp:30:5: note: 66 lines including whitespace and comments (threshold 0)
+/home/ubuntu/ai_coding/GithubCopilot_Code/GithubBowling.cpp:30:5: note: 61 statements (threshold 0)
+/home/ubuntu/ai_coding/GithubCopilot_Code/GithubBowling.cpp:30:5: note: 15 branches (threshold 0)
+/home/ubuntu/ai_coding/GithubCopilot_Code/GithubBowling.cpp:30:12: note: nesting level 1 starts here (threshold 0)

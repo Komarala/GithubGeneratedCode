@@ -1,0 +1,35 @@
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github_test.cpp:6:1: warning: function 'TestBody' has cognitive complexity of 5 (threshold 0) [readability-function-cognitive-complexity]
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github_test.cpp:6:1: warning: function 'TestBody' exceeds recommended size/complexity thresholds [readability-function-size]
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github_test.cpp:6:1: note: 6 lines including whitespace and comments (threshold 0)
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github_test.cpp:6:1: note: 13 statements (threshold 0)
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github_test.cpp:6:1: note: 3 branches (threshold 0)
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github_test.cpp:6:29: note: nesting level 1 starts here (threshold 0)
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github_test.cpp:14:1: warning: function 'TestBody' has cognitive complexity of 5 (threshold 0) [readability-function-cognitive-complexity]
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github_test.cpp:14:1: warning: function 'TestBody' exceeds recommended size/complexity thresholds [readability-function-size]
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github_test.cpp:14:1: note: 6 lines including whitespace and comments (threshold 0)
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github_test.cpp:14:1: note: 13 statements (threshold 0)
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github_test.cpp:14:1: note: 3 branches (threshold 0)
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github_test.cpp:14:28: note: nesting level 1 starts here (threshold 0)
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github_test.cpp:22:1: warning: function 'TestBody' has cognitive complexity of 5 (threshold 0) [readability-function-cognitive-complexity]
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github_test.cpp:22:1: warning: function 'TestBody' exceeds recommended size/complexity thresholds [readability-function-size]
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github_test.cpp:22:1: note: 9 lines including whitespace and comments (threshold 0)
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github_test.cpp:22:1: note: 16 statements (threshold 0)
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github_test.cpp:22:1: note: 3 branches (threshold 0)
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github_test.cpp:22:29: note: nesting level 1 starts here (threshold 0)
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github_test.cpp:33:1: warning: function 'TestBody' has cognitive complexity of 5 (threshold 0) [readability-function-cognitive-complexity]
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github_test.cpp:33:1: warning: function 'TestBody' exceeds recommended size/complexity thresholds [readability-function-size]
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github_test.cpp:33:1: note: 9 lines including whitespace and comments (threshold 0)
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github_test.cpp:33:1: note: 16 statements (threshold 0)
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github_test.cpp:33:1: note: 3 branches (threshold 0)
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github_test.cpp:33:30: note: nesting level 1 starts here (threshold 0)
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github_test.cpp:44:1: warning: function 'TestBody' has cognitive complexity of 5 (threshold 0) [readability-function-cognitive-complexity]
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github_test.cpp:44:1: warning: function 'TestBody' exceeds recommended size/complexity thresholds [readability-function-size]
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github_test.cpp:44:1: note: 6 lines including whitespace and comments (threshold 0)
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github_test.cpp:44:1: note: 13 statements (threshold 0)
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github_test.cpp:44:1: note: 3 branches (threshold 0)
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github_test.cpp:44:32: note: nesting level 1 starts here (threshold 0)
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github_test.cpp:52:5: warning: function 'main' exceeds recommended size/complexity thresholds [readability-function-size]
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github_test.cpp:52:5: note: 3 lines including whitespace and comments (threshold 0)
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github_test.cpp:52:5: note: 2 statements (threshold 0)
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github_test.cpp:52:5: note: 2 parameters (threshold 0)
+/home/ubuntu/ai_coding/GithubCopilot_Code/calculateScore_Github_test.cpp:52:33: note: nesting level 1 starts here (threshold 0)
